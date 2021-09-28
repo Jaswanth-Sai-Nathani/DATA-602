@@ -1,10 +1,10 @@
-##Assignment 3 
+## Assignment 3 
 This assignment we are going to do expolaratory data analysis on the San Francisco employee salary compensation.
 This data is approximately 157 MB and is taken from kaggle for analysis.
 ####Source Link: https://www.kaggle.com/siddheshera/san-francisco-employee-salary-compensation
 It contains 678525 rows and 22 columns.
 
-####Content
+#### Content
 The San Francisco Controller's Office maintains a database of the salary and benefits paid to City employees since the fiscal year 2013. This dataset contains more than 650k employee records found in San Francisco from 2013 to 2020.
 
 1.Organization Group Code: Org Group is a group of Departments. For example, the Public Protection Org Group includes departments such as the Police, Fire, Adult Probation, District Attorney, and Sheriff.
@@ -29,7 +29,7 @@ The San Francisco Controller's Office maintains a database of the salary and ben
 21.Other Benefits: Mandatory benefits paid on behalf of employees, such as Social Security (FICA and Medicare) contributions, unemployment insurance premiums, and minor discretionary benefits not included in the above categories.
 22.Total Benefits: The sum of all benefits paid to City employees.
 
-####Target:
+#### Target:
 Total Compensation: The sum of all salaries and benefits paid to City employees.
 
 Note:

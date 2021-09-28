@@ -1,6 +1,6 @@
 ## Assignment 3 
 This assignment we are going to do expolaratory data analysis on the San Francisco employee salary compensation.
-This data is approximately 157 MB and is taken from kaggle for analysis.
+This data is approximately 157 MB and is taken from data.sf for analysis. This is very large file so I am not uploading the file and pasting the link to source.
 #### Source Link: https://data.sfgov.org/City-Management-and-Ethics/Employee-Compensation/88g8-5mnd
 It contains 678525 rows and 22 columns.
 
